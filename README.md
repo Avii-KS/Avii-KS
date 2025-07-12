@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-kumar-0602402a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
+  <a href="mailto:avii.codes@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://github.com/Avii-KS"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"></a>
 </p>
 
