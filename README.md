@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Avinash Kumar Sah 👋</h1>
+<h3 align="center">Full Stack Developer | CS Undergrad @ MIT ADT</h3>
 
-<!--
-**Avii-KS/Avii-KS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://github.com/Avii-KS"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Education
+- **Kalvium UG Program** in Software Product Engineering  
+- **MIT ADT University**, B.Tech in CSE (2024–28)
+
+---
+
+### 🚀 Top Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [DevCollab](https://github.com/Avii-KS/Dev-Collab) | Real-time project management & collab tool | React, Clerk, Prisma |
+| [FoodieGoo](https://github.com/Avii-KS/FoodieGoo) | Food Delivery app with Stripe payments | MERN, JWT |
+| [WealthWise](https://github.com/Avii-KS/WealthWise) | AI-based financial dashboard | Next.js, Supabase |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avii-KS&show_icons=true&theme=github_dark">
+</p>
