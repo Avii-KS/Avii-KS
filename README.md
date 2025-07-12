@@ -51,7 +51,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**DevCollab**](https://github.com/Avii-KS/Dev-Collab) | Project & team collaboration platform with real-time editing, auth, dashboards | React, Clerk, Prisma, Node |
-| [**FoodieGoo**](https://github.com/Avii-KS/FoodieGoo) | E-commerce app with JWT auth, Stripe payments & admin dashboard | MERN, Stripe |
+| [**FoodieGoo**](https://github.com/Avii-KS/FoodieGoo) | Food Delivering app with JWT auth, Stripe payments & admin dashboard | MERN, Stripe |
 | [**WealthWise**](https://github.com/Avii-KS/WealthWise) | AI-powered finance tracker with budgeting & analytics | Next.js, Supabase, Inngest |
 
 ---
